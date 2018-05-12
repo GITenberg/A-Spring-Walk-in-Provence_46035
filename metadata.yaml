@@ -1,0 +1,28 @@
+_repo: A-Spring-Walk-in-Provence_46035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46035-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marshall, Archibald
+    alias: Marshall, Arthur Hammond
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '35191'
+    url: http://www.gutenberg.org/2009/agents/35191
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46035'
+  lccn: '20017745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Provence (France) -- Description and travel'
+title: A Spring Walk in Provence
+url: http://www.gutenberg.org/ebooks/46035
